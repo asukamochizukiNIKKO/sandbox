@@ -1,0 +1,10 @@
+div.container{
+  max-width:900px;
+  margin:auto;
+}
+div.container img{
+  width:100%;
+}
+div.container h1{
+  background-color: #ccc;
+}
